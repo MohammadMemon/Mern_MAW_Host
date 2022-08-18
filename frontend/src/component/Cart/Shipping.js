@@ -83,7 +83,7 @@ const Shipping = ({ history }) => {
               <PinDropIcon />
               <input
                 type="number"
-                placeholder="Pin Code"
+                placeholder="PinCode"
                 required
                 value={pinCode}
                 onChange={(e) => setPinCode(e.target.value)}

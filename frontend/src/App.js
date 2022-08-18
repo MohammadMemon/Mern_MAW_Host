@@ -11,9 +11,6 @@ import UserOptions from "./component/layout/Header/UserOptions";
 import ProtectedRoute from "./component/Route/ProtectedRoute";
 import Loader from './component/layout/Loader/Loader';
 
-import Shipping from "./component/Cart/Shipping";
-import ConfirmOrder from "./component/Cart/ConfirmOrder";
-import Payment from "./component/Cart/Payment"
 
 const Home = lazy(() =>  import("./component/Home/Home.js"))
 const ProductDetails = lazy(() =>  import("./component/Product/ProductDetails.js"))
@@ -26,6 +23,9 @@ const UpdatePassword = lazy(() =>  import("./component/User/UpdatePassword"))
 const ForgotPassword = lazy(() =>  import("./component/User/ForgotPassword"))
 const ResetPassword = lazy(() =>  import("./component/User/ResetPassword"))
 const Cart = lazy(() =>  import("./component/Cart/Cart"))
+const Shipping = lazy(() =>  import("./component/Cart/Shipping"))
+const ConfirmOrder = lazy(() =>  import("./component/Cart/ConfirmOrder"))
+const Payment = lazy(() =>  import("./component/Cart/Payment"))
 const OrderSuccess = lazy(() =>  import("./component/Cart/OrderSuccess"))
 const MyOrders = lazy(() =>  import("./component/Order/MyOrders"))
 const OrderDetails = lazy(() =>  import("./component/Order/OrderDetails"))
