@@ -37,4 +37,4 @@ KEY_SECRET (Razorpay) =|
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/mohammad.memon_) **@mohammad.memon_** **Mohammad Memon** **LinkedIn** Click [Here](https://www.linkedin.com/in/mohammed-memon-845261245)
+**Instagram** Click [Here](https://www.instagram.com/mohammad.memon_) **@mohammadmemon__** **Mohammad Memon** **LinkedIn** Click [Here](https://www.linkedin.com/in/mohammad-memon-845261245)
